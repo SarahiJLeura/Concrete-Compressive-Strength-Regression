@@ -6,6 +6,7 @@ In this case, we compare:
 - Kernel Ridge Regression
 
 We measure the MSE to find the best model.
+
 ---
 ## Dataset
 **Name:** Concrete Compressive Strength  
@@ -23,6 +24,7 @@ Given are the variable name, variable type, the measurement unit and a brief des
 ## References
 
 Yeh, I. (1998). Concrete Compressive Strength [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5PK67.
+
 ---
 ## Author
 * Created by Patricia Sarahi Jimenez-Leura
